@@ -1,4 +1,4 @@
-# Hexapod Robot - Matura Theis Project
+# Hexapod Robot - Matura Thesis Project
 This project was created as part of my Matura thesis (November 2023).  
 The goal was to build a simple walking robot and, in the process, teach myself the basics of:
 
